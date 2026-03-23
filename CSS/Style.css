@@ -74,7 +74,7 @@ a.active{
 a.actie::after{
     width: 100%;
 }
-.Bekira {
+.Hero {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -83,7 +83,7 @@ a.actie::after{
     margin: 10rem 2rem;
 }
 
-.Bekira img{
+.Hero img{
     width: 300px;
     height: 300px;
     object-fit: cover;
@@ -91,19 +91,19 @@ a.actie::after{
     border: 8px solid var(--violet-doux);
 }
 
-.Bekira h1{
+.Hero h1{
     color: var(--violet-doux);
     font-size: 4rem;
     font-weight: 700;
     margin-bottom: 1.2rem;
 }
 
-.Bekira p{
+.Hero p{
     color: var(--gris-tres-foncé);
     font-size: 1.3rem;
     margin-bottom: 1.2rem;
 }
-.Bekira a {
+.Hero a {
     text-decoration: none;
     display: inline-block;
     background-color: var(--violet-doux);
@@ -116,7 +116,7 @@ a.actie::after{
     margin-top: 1rem;
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
-.Bekira a:hover{
+.Hero a:hover{
     background-color: var(--violet-foncé);
     transform: translateY(-3px);
 }
